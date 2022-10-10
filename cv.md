@@ -105,3 +105,24 @@ Russian – A2
 English – B2/C1   
 
 Since 2010, I have been working in an international and multicultural environment where English is the official working language. In my daily work, I obtain information from international scientific databases and journals as well as write and present reports in English. I also prepared manuscripts for peer-reviewed chemical journals and gave lectures in English. I participated in several international conferences and two internships in Germany (nine months) during my doctoral studies. I try to constantly improve my language skills.
+
+#### Courses:
+Soft and Management Skills Trainings
+
+Project team building based on the client's needs (24.01.2018) Kraków    
+Professional scientific presentations (7-8.06.2017) Kraków    
+Effective manager - training preparing for leadership role (26-27.01.2017) Kraków   
+A project team building and management (1-2.06.2016) Kraków   
+Assertiveness and communication for managers (23- 24.05.2016) Kraków    
+Training of autopresentation skills (4.09.2014) Wrocław   
+Setting up and managing of spin off/spin out companies (26.05.2014) Wrocław   
+Management of research projects (22.05.2014) Wrocław   
+Conflict resolution (05.2014) online course   
+Time management (05.2014) online course   
+Interpersonal communication (05.2014) online course   
+
+Technical Skills Trainings
+
+Microsoft Excel - advanced course (13-15.03.2017) Comarch, Kraków   
+Programming in Python language for beginners - workshop (11.2014-02.2015) WCSS, Wrocław   
+Computational approaches for bio-marker design: a tree-levels learning workshop (23-27.06.2014) WCSS, Wrocław   
