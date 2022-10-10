@@ -4,7 +4,8 @@
 
 Phone: +48 509 740073
 E-mail: kamila.olech@outlook.com
-
+[LinkedIn](https://pl.linkedin.com/in/kamila-olech-5279215a) 
+[GitHub](https://github.com/kamilaolech?tab=repositories)
 
 >I am a PhD in Chemistry with seven years of industrial experience in medical chemistry. My current job aim to discover a new anticancer therapy. I am fascinated by the possibility of significantly accelerating this high risk, time and resource consuming process through the implementation of artificial intelligence and machine learning technologies.
 Last year I completed postgraduate studies (Mobile and Web Application Tester) and had the opportunity to use the acquired skills while working in the Data Science department at Ryvu Therapeutics (temporary transfer for pregnancy period).
