@@ -54,7 +54,7 @@ January 2011 – April 2011
 
 Automated login page test (negative) of the XKom app using Python and Selenium Web Driver follow the Page Object Model (POM) and Data Driven Test (DDT), see more on [GitHub](https://github.com/kamilaolech/XKom_app_test/tree/master/Tests):
 
-```
+```python
 import unittest
 from ddt import ddt, data, unpack
 
