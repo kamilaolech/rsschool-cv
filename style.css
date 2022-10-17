@@ -72,7 +72,7 @@ body{
     width: 42%;
     text-align: center;
     background-color:#d9edee;
-    padding: 5px;
+    padding: 4px;
 }
 
 .column2{
@@ -147,4 +147,32 @@ footer img{
     margin: -20px;
     margin-top: 5px;
     margin-bottom: 5px;
+}
+
+#contacts{
+    text-align: left;
+}
+
+#contacts ul{
+    margin: -20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#skills ul{
+    margin: -20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+#courses ul{
+    margin-left: -20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: justify
+}
+
+#python-code{
+    background-color: #eeee;
 }
