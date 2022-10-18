@@ -1,0 +1,188 @@
+h1{
+    font-size: 50px;
+    font-weight: 200;
+    text-transform: uppercase;
+
+}
+h2{
+    font-size: 21px;
+    font-weight: 200;
+    text-transform: uppercase;
+}
+h3{
+    font-size: 18px;
+    text-align: left;
+    text-transform: uppercase;
+    font-weight: 300;
+    margin-bottom: 0px;
+}
+p{
+    font-size: 15px;
+}
+
+li{
+    font-size: 15px;
+}
+
+a{
+    text-decoration:none;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: grey;
+}
+
+#wrapper{
+    width: 980px;
+    margin: 0 auto;
+    background: white;
+}
+
+#main-navigation{
+    background: black;
+    padding: 1px;
+}
+
+#main-navigation ul{
+    text-align: center;
+    list-style-type: none;
+    margin-right: 10px;
+}
+
+#main-navigation li{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#main-navigation a{
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 2px;
+}
+
+.row{
+    display: flex;
+}
+
+.column1{
+    width: 42%;
+    text-align: center;
+    background-color:#d9edee;
+    padding: 4px;
+}
+
+.column2{
+    width: 68%;
+    text-align: center;
+    padding-top: 50px;
+    background-color:#e6f0f5;
+}
+
+header img{
+    margin: 10px;
+    border-radius: 50%;
+}
+
+header{
+    line-height: 7px;
+}
+
+.column3{
+    width: 42%;
+    text-align: center;
+    background-color:#eeeeee;
+    padding: 10px;
+}
+
+.column4{
+    width: 68%;
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    text-align: left;
+}
+
+footer{
+    background: white;
+    padding: 1px;
+    font: Arial;
+    font-size: 10px;
+}
+
+footer ul{
+    text-align: center;
+    list-style-type: none;
+    margin: 10px 10px;
+}
+
+footer li{
+    display: inline-block;
+    margin: 0px;
+    padding: 0px 100px;
+}
+
+footer a{
+    color: black;
+    text-decoration: none;
+    padding: 2px;
+}
+
+footer img{
+    height: 20px
+}
+
+#profile{
+    text-align: justify;
+}
+
+#languages{
+    text-align: justify;
+}
+
+#languages ul{
+    margin: -20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#contacts{
+    text-align: left;
+}
+
+#contacts ul{
+    margin: -20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#skills ul{
+    margin: -20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+#courses ul{
+    margin-left: -20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: justify
+}
+
+#python-code{
+    background-color: #eeee;
+}
+
+#education p{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#experiance p{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
